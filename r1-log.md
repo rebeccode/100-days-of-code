@@ -22,7 +22,11 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 
 ### R1D2
 **Today's Progress:**
+Working on Odin Project JavaScript fundamentals 3. Working on JavaScript functions.
+Went through some MDN tutorials and cloned the repository to my local machine to work on the code-alongs.
 
 **Thoughts:** 
+I can understand some bits of functions. The issue about scope (global and local scope for variables) makes sense.
 
 **Link(s) to work:** 
+https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3?ref=lnav
