@@ -31,7 +31,7 @@ I can understand some bits of functions. The issue about scope (global and local
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3?ref=lnav
 
-### R1D2
+### R1D3
 **Today's Progress:**
 Working on Odin Project JavaScript fundamentals 3. Working on JavaScript functions.
 Finished the required reading and made notes.
