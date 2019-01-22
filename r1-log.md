@@ -20,7 +20,7 @@ https://www.theodinproject.com/courses/web-development-101/lessons/developer-too
 Learned about Debugging JavaScript with breakpoints:
 https://developers.google.com/web/tools/chrome-devtools/javascript/
 
-### R1D2
+### R1D2 Sunday January 20th 2019
 **Today's Progress:**
 Working on Odin Project JavaScript fundamentals 3. Working on JavaScript functions.
 Went through some MDN tutorials and cloned the repository to my local machine to work on the code-alongs.
@@ -31,7 +31,7 @@ I can understand some bits of functions. The issue about scope (global and local
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3?ref=lnav
 
-### R1D3
+### R1D3 Monday January 21st 2019
 **Today's Progress:**
 Working on Odin Project JavaScript fundamentals 3. Working on JavaScript functions.
 Finished the required reading and made notes.
@@ -41,3 +41,16 @@ Found the tasks from JavaScript.info really tough and couldn't solve some of the
 
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3?ref=lnav
+
+### R1D4 Tuesday January 22nd 2019
+**Today's Progress:**
+Finished Odin Project JavaScript fundamentals 3.
+Made a new repository for building the rock, paper, scissors game for the next lesson of Odin.
+
+**Thoughts:** 
+Found the reading from days 1-3 made more sense today, and I solved the problems at the end of
+JavaScript fundamentals 3 quickly, so I feel good today!
+
+**Link(s) to work:** 
+https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3
+https://github.com/rebeccode/rock-paper-scissors
