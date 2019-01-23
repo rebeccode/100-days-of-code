@@ -54,3 +54,15 @@ JavaScript fundamentals 3 quickly, so I feel good today!
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3
 https://github.com/rebeccode/rock-paper-scissors
+
+### R1D5 Wednesday January 23rd 2019
+**Today's Progress:**
+Working on coding the Rock, Paper, Scissors game task from the Odin Project.
+In an hour and a half I managed to write the computer play and the user play by myself (with a bunch of re-reading and googling) but without gooling "rock, paper, scissors" JavaScript.
+
+**Thoughts:** 
+Felt overwhelmed at first. But I broke it down and thought about what I wanted to do (like choose a random one from rock, paper or scissors) and what I know already and how to achieve it. 
+
+**Link(s) to work:** 
+https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav
+https://github.com/rebeccode/rock-paper-scissors
