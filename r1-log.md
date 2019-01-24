@@ -66,3 +66,16 @@ Felt overwhelmed at first. But I broke it down and thought about what I wanted t
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav
 https://github.com/rebeccode/rock-paper-scissors
+
+### R1D6 Wednesday January 24th 2019
+**Today's Progress:**
+Finished coding the Rock, Paper, Scissors game task from the Odin Project.
+In an hour and a half I managed to write the repeat 5 times function, the calculating score function, and get it all working.
+
+**Thoughts:** 
+Felt overwhelmed at first. But I broke it down and thought about what I wanted to do and what I know already and how to achieve it. Plus frantic googling about loops.
+I finally feel like something with JavaScript has clicked. And the pure focus I have for an hour an a half trying to do what I want to is really motivating for me.
+
+**Link(s) to work:** 
+https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav
+https://github.com/rebeccode/rock-paper-scissors
