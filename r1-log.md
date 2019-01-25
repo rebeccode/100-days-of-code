@@ -67,7 +67,7 @@ Felt overwhelmed at first. But I broke it down and thought about what I wanted t
 https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav
 https://github.com/rebeccode/rock-paper-scissors
 
-### R1D6 Wednesday January 24th 2019
+### R1D6 Thursday January 24th 2019
 **Today's Progress:**
 Finished coding the Rock, Paper, Scissors game task from the Odin Project.
 In an hour and a half I managed to write the repeat 5 times function, the calculating score function, and get it all working.
@@ -79,3 +79,13 @@ I finally feel like something with JavaScript has clicked. And the pure focus I 
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav
 https://github.com/rebeccode/rock-paper-scissors
+
+### R1D7 Friday January 25th 2019
+**Today's Progress:**
+Finished Web Dev 101 clean coding lesson on Odin and made notes. Reading up about JavaScript arrays.
+
+**Thoughts:** 
+Feel sleepy just reading articles on Friday night after work.
+
+**Link(s) to work:** 
+https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4
