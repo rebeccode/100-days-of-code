@@ -89,3 +89,13 @@ Feel sleepy just reading articles on Friday night after work.
 
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4
+
+### R1D8 Saturday January 26th 2019
+**Today's Progress:**
+Finished the reading about JavaScript arrays. Read about loops and doing the active learning tasks.
+
+**Thoughts:** 
+I knew a little about these topics already, but I understand them more now.
+
+**Link(s) to work:** 
+https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4
