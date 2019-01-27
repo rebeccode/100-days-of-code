@@ -99,3 +99,16 @@ I knew a little about these topics already, but I understand them more now.
 
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4
+
+### R1D9 Sunday January 27th 2019
+**Today's Progress:**
+Finished the tasks for Loops. It was tricky and I made a few mistakes, kept a record of them to review again later.
+I started the Test Driven Development part of the Odin lesson.
+Installed NPM, jasmine and node from the command line to run tests on JavaScript files I need to fix.
+
+**Thoughts:** 
+I feel like the JavaScript I write is always bad compared with the model answers. But that's part of learning!
+
+**Link(s) to work:** 
+https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4
+https://github.com/TheOdinProject/javascript-exercises
