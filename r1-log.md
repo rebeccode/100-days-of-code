@@ -112,3 +112,16 @@ I feel like the JavaScript I write is always bad compared with the model answers
 **Link(s) to work:** 
 https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4
 https://github.com/TheOdinProject/javascript-exercises
+
+### R1D10 Tuesday January 29th 2019
+**Today's Progress:**
+Was ill with a migraine after work last night so I couldn't do anything. I'm back coding for an hour after work today.
+Made the "repeat string" code for JavaScript and tested it using Jasmine on the command line.
+Not sure if I did it right, so I asked a question in the Odin Project chatroom.
+
+**Thoughts:** 
+Definitely having 100 days of code as a motivator has made me come back today after being ill yesterday.
+Still unsure and feeling unconfident. JavaScript and the logic is not so intuitive to me, so I keep making silly mistakes. But I know it's part of learning.
+
+**Link(s) to work:**
+https://www.theodinproject.com/lessons/fundamentals-part-4
