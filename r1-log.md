@@ -125,3 +125,16 @@ Still unsure and feeling unconfident. JavaScript and the logic is not so intuiti
 
 **Link(s) to work:**
 https://www.theodinproject.com/lessons/fundamentals-part-4
+
+### R1D11 Wednesday January 30th 2019
+**Today's Progress:**
+- Reversed a string
+- 
+
+**Thoughts:** 
+Fit in studying between work and other commitments for an hour. It shows I can do it with a bit of forethought and planning!
+Felt good to figure out the JavaScript exercise much quicker than yesterday!
+
+**Link(s) to work:**
+https://www.theodinproject.com/lessons/fundamentals-part-4
+
