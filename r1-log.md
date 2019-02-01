@@ -138,3 +138,13 @@ Felt good to figure out the JavaScript exercise much quicker than yesterday!
 **Link(s) to work:**
 https://www.theodinproject.com/lessons/fundamentals-part-4
 
+### R1D12 Friday February 1st 2019
+**Today's Progress:**
+Stuck on JavaScript exercise about removing things from an array and making my code pass all the tests.
+
+**Thoughts:** 
+Learned a lot today but still super stuck. A bit frustrating but I'll keep working through it.
+
+**Link(s) to work:**
+https://www.theodinproject.com/lessons/fundamentals-part-4
+
