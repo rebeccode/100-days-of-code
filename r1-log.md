@@ -148,3 +148,13 @@ Learned a lot today but still super stuck. A bit frustrating but I'll keep worki
 **Link(s) to work:**
 https://www.theodinproject.com/lessons/fundamentals-part-4
 
+### R1D13 Saturday February 2nd 2019
+**Today's Progress:**
+Super stuck on the same JavaScript exercise for a few hours. Looked in Odin forums and found I wasn't the only one. I learned more about the concepts involved, but I never would have been able to figure that out by myself.
+I solved the next problem super easily and quickly! Just shows how long it can take if I haven't got the core concepts of the problem down yet.
+
+**Thoughts:** 
+Learned a lot today. Feel like I want to make more progress more quickly, but get stuck so easily!
+
+**Link(s) to work:**
+https://www.theodinproject.com/lessons/fundamentals-part-4
