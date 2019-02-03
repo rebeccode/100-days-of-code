@@ -158,3 +158,15 @@ Learned a lot today. Feel like I want to make more progress more quickly, but ge
 
 **Link(s) to work:**
 https://www.theodinproject.com/lessons/fundamentals-part-4
+
+### R1D14 Sunday February 3rd 2019
+**Today's Progress:**
+Moved on to DOM Manipulation using JavaScript today. Did the exercises about adding elements to the DOM and styling them.
+
+
+**Thoughts:** 
+I already forgot a lot of the things I'd learned with CSS and the ways to change styles. Reviewing often is so important!
+
+**Link(s) to work:**
+https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+https://www.youtube.com/watch?v=VuN8qwZoego
