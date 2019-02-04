@@ -170,3 +170,15 @@ I already forgot a lot of the things I'd learned with CSS and the ways to change
 **Link(s) to work:**
 https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
 https://www.youtube.com/watch?v=VuN8qwZoego
+
+### R1D15 Monday February 4th 2019
+**Today's Progress:**
+Followed the tutorial from JavaScript 30 to make the drumkit. It was good to code along and I made a few mistakes which consolidated the structure of the code. I set up for creating my own UI for the rock, paper, scissors I coded before.
+
+**Thoughts:** 
+Wish I had more time in the day to code! Around 2 hours or so is not enough!
+
+**Link(s) to work:**
+https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+https://www.youtube.com/watch?v=VuN8qwZoego
+
