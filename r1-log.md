@@ -182,3 +182,14 @@ Wish I had more time in the day to code! Around 2 hours or so is not enough!
 https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
 https://www.youtube.com/watch?v=VuN8qwZoego
 
+### R1D16 Tuesday February 5th 2019
+**Today's Progress:**
+Editing JavaScript to make the rock, paper, scissors work.
+JavaScript logic working now with console.log - need to change to DOM methods to show the score on the webpage tomorrow.
+
+**Thoughts:** 
+Had a tiring day, so coding at night after work was rough.
+
+**Link(s) to work:**
+https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
+https://www.youtube.com/watch?v=VuN8qwZoego
