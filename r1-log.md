@@ -193,3 +193,15 @@ Had a tiring day, so coding at night after work was rough.
 **Link(s) to work:**
 https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation
 https://www.youtube.com/watch?v=VuN8qwZoego
+
+
+### R1D17 Friday February 8th 2019
+**Today's Progress:**
+Changed rock paper scissors consolelogs to to DOM methods to show the score on the webpage.
+
+**Thoughts:** 
+Last two days were busy and crazy with work. It was hard to get back into the code after two days away from it, but I managed to do what I wanted to today.
+
+**Link(s) to work:**
+https://github.com/rebeccode/rock-paper-scissors
+
