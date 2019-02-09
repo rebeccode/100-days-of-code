@@ -205,3 +205,14 @@ Last two days were busy and crazy with work. It was hard to get back into the co
 **Link(s) to work:**
 https://github.com/rebeccode/rock-paper-scissors
 
+### R1D18 Saturday February 9th 2019
+**Today's Progress:**
+Editing the rock-paper-scissors a little. Re-studying about responsive web design as I'm planning to make it look nicer with CSS next.
+
+**Thoughts:** 
+Enjoying coding and putting everything together without a tutorial or walkthrough.
+
+**Link(s) to work:**
+https://github.com/rebeccode/rock-paper-scissors
+
+
