@@ -215,4 +215,13 @@ Enjoying coding and putting everything together without a tutorial or walkthroug
 **Link(s) to work:**
 https://github.com/rebeccode/rock-paper-scissors
 
+### R1D19 Sunday February 10th 2019
+**Today's Progress:**
+Added reset button to my JavaScript code for rock-paper-scissors, and editing the UI so it is responsive and viewable on mobile devices.
+
+**Thoughts:** 
+A long way to go, but I made progress today.
+
+**Link(s) to work:**
+https://github.com/rebeccode/rock-paper-scissors
 
