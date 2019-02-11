@@ -225,3 +225,15 @@ A long way to go, but I made progress today.
 **Link(s) to work:**
 https://github.com/rebeccode/rock-paper-scissors
 
+### R1D20 Monday February 11th 2019
+**Today's Progress:**
+Still working on the JavaScript rock, paper, scissors.
+I need to work on the layout and design.
+
+**Thoughts:** 
+Making little bits of progress in the code, but I really need to push myself and focus!
+
+**Link(s) to work:**
+https://github.com/rebeccode/rock-paper-scissors
+
+
