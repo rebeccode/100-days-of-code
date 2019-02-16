@@ -236,4 +236,12 @@ Making little bits of progress in the code, but I really need to push myself and
 **Link(s) to work:**
 https://github.com/rebeccode/rock-paper-scissors
 
+### R1D21 Saturday February 17th 2019
+**Today's Progress:**
+Started working on creating my own portfolio website.
 
+**Thoughts:** 
+I have to force myself to slow down, think, research and plan carefully before just trying to build! But it has been going well because of that. So much I have to learn!
+
+**Link(s) to work:**
+None yet
