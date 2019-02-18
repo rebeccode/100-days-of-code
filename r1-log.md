@@ -258,3 +258,12 @@ Feeling good that I have put together a lot that I've learned so far.
 **Link(s) to work:**
 None yet
 
+### R1D23 Monday February 18th 2019
+**Today's Progress:**
+Portfolio website is LIVE! Can't believe the past three days have been crazy busy working on it, but I finally have it done!
+
+**Thoughts:** 
+Feeling great!
+
+**Link(s) to work:**
+https://rebeccode.github.io/portfolio/
