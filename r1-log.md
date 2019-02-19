@@ -267,3 +267,14 @@ Feeling great!
 
 **Link(s) to work:**
 https://rebeccode.github.io/portfolio/
+
+### R1D24 Tuesday February 19th 2019
+**Today's Progress:**
+Updates and tweaks on portfolio. Watched the WTF is JavaScript workshop from Code Chrysalis and Krista Moroder. I really liked it.
+It was a nice review of JavaScript. I learned a bit more clearly about objects. I was impressed with the morse code converter.
+
+**Thoughts:** 
+Been a busy few days, so it was nice to recover a bit with more passive learning today by listening to a talk.
+
+**Link(s) to work:**
+https://www.youtube.com/watch?v=RKc8BBn2JDw
