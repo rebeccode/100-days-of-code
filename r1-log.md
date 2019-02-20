@@ -278,3 +278,13 @@ Been a busy few days, so it was nice to recover a bit with more passive learning
 
 **Link(s) to work:**
 https://www.youtube.com/watch?v=RKc8BBn2JDw
+
+### R1D25 Wednesday February 20th 2019
+**Today's Progress:**
+Back to working on my rock-paper-scissors. I'm hoping to finish it today so I can move on with the Odin project curriculum. Making my portfolio site helped me understand more about layout, but I haven't fully understood CSS layouts yet, so I have more to work on.
+
+**Thoughts:** 
+Had a productive day. And feeling like I'm making progress with the rock-paper-scissors. I need to really think through the layout I'm aiming for, and then work out how I can make it in CSS.
+
+**Link(s) to work:**
+https://github.com/rebeccode/rock-paper-scissors
