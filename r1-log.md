@@ -288,3 +288,12 @@ Had a productive day. And feeling like I'm making progress with the rock-paper-s
 
 **Link(s) to work:**
 https://github.com/rebeccode/rock-paper-scissors
+
+### R1D26 Thursday February 21st 2019
+**Today's Progress:**
+Figuring out why my terminal had an error message "bash completion: command not found" and fixing it. Then reviewing the DOM Manipulation from Web Dev 101
+
+**Thoughts:** 
+Busy day at work and after work, so tried to fit in a bit of time, but not as much as I'd have liked to today!
+
+**Link(s) to work:**
