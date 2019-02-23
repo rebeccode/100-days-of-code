@@ -297,3 +297,23 @@ Figuring out why my terminal had an error message "bash completion: command not 
 Busy day at work and after work, so tried to fit in a bit of time, but not as much as I'd have liked to today!
 
 **Link(s) to work:**
+
+### R1D27 Friday February 22nd 2019
+**Today's Progress:**
+Re-read the information about DOM manipulation. Blogged my review of DOM Manipulation and about my JavaScript rock, paper, scissors.
+
+**Thoughts:** 
+Busy day so I could just get in some reading and writing about the main concepts. 
+
+**Link(s) to work:**
+https://rebeccode.wordpress.com/2019/02/22/dom-manipulation-odin-project-web-dev-101/
+
+### R1D28 Saturday February 23rd 2019
+**Today's Progress:**
+Studying along with FreeCodeCamp for an hour on their Applied Visual Design in the Responsive Web Design Certification.
+
+**Thoughts:** 
+I feel like I need to go over some basic concepts, and didn't have the time to start on the next big Odin project yet, so going through some tutorials tonight for an hour.
+
+**Link(s) to work:**
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
