@@ -318,12 +318,12 @@ I feel like I need to go over some basic concepts, and didn't have the time to s
 **Link(s) to work:**
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
 
-### R1D29 Sunday February 24th 2019
+### R1D29 Monday February 25th 2019
 **Today's Progress:**
-Studying along with FreeCodeCamp for an hour on their Applied Visual Design in the Responsive Web Design Certification. Finished it.
+Search engine optimization and marketing research.
 
 **Thoughts:** 
-Learned some new things - and I feel comfortable searching on YouTube, Khan Academy and other courses to clarify anything I didn't understand clearly.
+Learned some new things - but not the technical side yet.
 
 **Link(s) to work:**
-https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
+
