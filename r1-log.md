@@ -327,3 +327,13 @@ Learned some new things - but not the technical side yet.
 
 **Link(s) to work:**
 
+### R1D30 Tuesday February 26th 2019
+**Today's Progress:**
+Continued search engine optimization and marketing research.
+Learned about what node, gulp/grunt, sass, and jQuery are on Khan academy and youtube.
+
+**Thoughts:** 
+Things are a bit clearer - but everything is such a massive topic! It's insane how much there is to learn.
+
+**Link(s) to work:**
+
