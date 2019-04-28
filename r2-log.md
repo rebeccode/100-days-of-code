@@ -5,6 +5,23 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R1D2 Sunday April 28, 2019
+**Today's Progress:**
+- Went through "Flexbox" on FreeCodeCamp.
+- Setting up the HTML, CSS and JavaScript files for the Odin Project Etch-a-Sketch project.
+
+**Learned:** 
+- justify content is along the main axis, and align-items is on the cross axis
+https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg
+
+**Thoughts:** 
+- I've forgotten a lot of the basic JavaScript stuff I learned since I haven't looked at it for ages!
+
+**Link(s) to work:** 
+https://learn.freecodecamp.org/
+https://www.theodinproject.com/lessons/etch-a-sketch-project
+
+
 ### R1D1 Saturday April 27, 2019
 **Today's Progress:**
 - Went through "Applied Accesibility" on FreeCodeCamp.
