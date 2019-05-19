@@ -5,9 +5,22 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R2D4 Sunday May 19, 2019
+**Today's Progress:**
+Completed and passed the tests for the first Responsive Web Design project from Free Code Camp - a tribute page.
+
+**Learned:** 
+Learn about SASS by watching a youtube video and then tried to use some of the features of SASS in this project.
+
+**Thoughts:** 
+I realise that it is hard to sort out layouts using different methods - floats, flexbox, CSS grid, etc. and I don't need to have it all in my mind and be able to write it perfectly instantly. I have way too high standards/expectations for myself.
+Breaking it down and working it out on paper and trying it and testing it, then fixing it. That trial and error is totally fine while learning! Don't beat yourself up!
+
+**Link(s) to work:** 
+https://codepen.io/rebeccode/pen/qGELXG
 
 
-### R1D3 Tuesday May 7, 2019
+### R2D3 Tuesday May 7, 2019
 **Today's Progress:**
 - Went through "CSS Grid" on FreeCodeCamp (FCC)
 - Come to my first FCC responsive project - a Tribute Page which I am working on now:
@@ -29,7 +42,7 @@ https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-proje
 
 
 
-### R1D2 Sunday April 28, 2019
+### R2D2 Sunday April 28, 2019
 **Today's Progress:**
 - Went through "Flexbox" on FreeCodeCamp.
 - Setting up the HTML, CSS and JavaScript files for the Odin Project Etch-a-Sketch project.
@@ -46,7 +59,7 @@ https://learn.freecodecamp.org/
 https://www.theodinproject.com/lessons/etch-a-sketch-project
 
 
-### R1D1 Saturday April 27, 2019
+### R2D1 Saturday April 27, 2019
 **Today's Progress:**
 - Went through "Applied Accesibility" on FreeCodeCamp.
 - Set up a repo for building the Odin Project - Etch a Sketch Project.
