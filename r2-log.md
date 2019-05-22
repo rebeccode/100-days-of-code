@@ -5,6 +5,20 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R2D5 Wednesday May 22, 2019
+**Today's Progress:**
+Working on the Second Responsive Web Design project from Free Code Camp - a survey form.
+
+**Learned:** 
+How to make form fields required, set min/max values, restrict the text/numbers that can be inputted using pattern="" and make a drop down list.
+https://www.w3schools.com/tags/att_input_pattern.asp
+
+**Thoughts:** 
+Making progress and learning basics still, but it feels good to keep learning.
+
+**Link(s) to work:** 
+https://codepen.io/rebeccode/full/BemomJ
+
 ### R2D4 Sunday May 19, 2019
 **Today's Progress:**
 Completed and passed the tests for the first Responsive Web Design project from Free Code Camp - a tribute page.
