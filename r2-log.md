@@ -5,6 +5,21 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R2D6 Thursday May 23, 2019
+**Today's Progress:**
+Working on the Etch a Sketch Odin project
+
+**Learned:** 
+Why my JavaScript wasn't working - I was passing 'div' as a string, rather than the actual HTML tag in the function.
+And I have to invokve the function - just declaring it won't make it run.
+
+**Thoughts:** 
+Odin's projects are hard! But I feel like I learn a lot by figuring things out by myself.
+
+**Link(s) to work:** 
+https://github.com/rebeccode/etch-a-sketch
+
+
 ### R2D5 Wednesday May 22, 2019
 **Today's Progress:**
 Working on the Second Responsive Web Design project from Free Code Camp - a survey form.
