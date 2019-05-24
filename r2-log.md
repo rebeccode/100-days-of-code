@@ -5,6 +5,19 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R2D7 Friday May 24, 2019
+**Today's Progress:**
+Working on the Etch a Sketch Odin project
+
+**Learned:** 
+Managed to make the divs change color - it works!
+
+**Thoughts:** 
+I find JavaScript hard to think about - I think I need to slow down and figure out what I need to do and how - especially for the next steps for the reset button.
+
+**Link(s) to work:** 
+https://github.com/rebeccode/etch-a-sketch
+
 ### R2D6 Thursday May 23, 2019
 **Today's Progress:**
 Working on the Etch a Sketch Odin project
