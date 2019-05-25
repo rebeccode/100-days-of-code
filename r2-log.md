@@ -5,6 +5,20 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R2D8 Saturday May 25, 2019
+**Today's Progress:**
+Working on the Etch a Sketch Odin project
+Managed to make the reset button erase the divs and classes, but cannot make the input work to make a new grid yet.
+
+**Learned:** 
+About how to use removeChild
+
+**Thoughts:** 
+Tough when I get stuck! But lots of googling.
+
+**Link(s) to work:** 
+https://github.com/rebeccode/etch-a-sketch
+
 ### R2D7 Friday May 24, 2019
 **Today's Progress:**
 Working on the Etch a Sketch Odin project
