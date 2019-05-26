@@ -5,6 +5,20 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R2D9 Sunday May 26, 2019
+**Today's Progress:**
+Working on the Etch a Sketch Odin project - can create new grids from 16-100 squares. Can change to rainbow or back to black and white and added an eraser button
+Still working on the adding 10% to have a shading function - kind of like the original etch a sketch.
+
+**Learned:** 
+There are a lot of different ways of making random colors generate using JavaScript and people online have shared a lot!
+
+**Thoughts:** 
+Almost there - so feeling positive.
+
+**Link(s) to work:** 
+https://github.com/rebeccode/etch-a-sketch
+
 ### R2D8 Saturday May 25, 2019
 **Today's Progress:**
 Working on the Etch a Sketch Odin project
