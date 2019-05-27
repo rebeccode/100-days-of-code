@@ -5,6 +5,22 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R2D10 Monday May 27, 2019
+**Today's Progress:**
+1) Finished the Free Code Camp 2nd Responsive Web Design Project - a survey form.
+2) Trying to figure out how to change the color on Etch and Sketch and stuck still
+
+**Learned:** 
+A lot about forms and how they are built in the front-end.
+Making things look good and adjust sizes depending on the size of the window etc. takes careful planning.
+
+**Thoughts:** 
+Making something look "perfect" is much easier when I plan it beforehand, rather than willy-nilly trying random stuff without fully understanding it. But I know the trial and error is a kind of learning, too.
+
+**Link(s) to work:** 
+https://codepen.io/rebeccode/pen/BemomJ
+https://github.com/rebeccode/etch-a-sketch
+
 ### R2D9 Sunday May 26, 2019
 **Today's Progress:**
 Working on the Etch a Sketch Odin project - can create new grids from 16-100 squares. Can change to rainbow or back to black and white and added an eraser button
