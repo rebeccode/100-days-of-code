@@ -5,6 +5,20 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+### R2D11 Tuesday May 28, 2019
+**Today's Progress:**
+Finished the Etch a Sketch - I gave up on making the shading change. I just couldn't make it work.
+
+**Learned:** 
+There are so many ways to do the same thing - I looked at others source code and how they did the shading thing. People had some very complex things set up to achieve it.
+
+**Thoughts:** 
+I "gave up" so I felt a bit bad - but I know I need to focus on things which will help me make progress and I can come back to work on this once I've studied more JavaScript.
+And also I should celebrate! I've been thinking of this project for over a month but not done any work on it! So I finally did it!
+
+**Link(s) to work:** 
+https://rebeccode.github.io/etch-a-sketch/
+
 ### R2D10 Monday May 27, 2019
 **Today's Progress:**
 1) Finished the Free Code Camp 2nd Responsive Web Design Project - a survey form.
