@@ -5,6 +5,53 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+###R2D15 Saturday Jun 8, 2019
+**Today's Progress**
+Went to 2 hour Java class.
+
+**Learned:**
+Learned more about methods and importing things into programs and how much is already available to us.
+
+**Thoughts:**
+We don't need to reinvent the wheel - it's just learning what we have and how we can use it to achieve what we need to.
+
+###R2D14 Friday Jun 7, 2019
+**Today's Progress**
+Did Java homework.
+
+**Learned:**
+How to use booleans to get the result I wanted with strings.
+
+**Thoughts:**
+
+
+**Link(s) to work:**
+
+
+###R2D13 Monday Jun 3, 2019
+**Today's Progress**
+Doing Java homework for an hour and a half.
+
+**Learned:**
+That equivalence, ==, doesn't work with strings the way it does with JavaScript.
+
+**Thoughts:**
+It is a bit tricky... especially with definiting the data type.
+
+**Link(s) to work:**
+
+
+###R2D12 Saturday Jun 1, 2019
+**Today's Progress:**
+Two hour Java class
+Two hours doing homework afterwards.
+
+**Learned:**
+How to use different operators in Java.
+
+**Thoughts:**
+Similar to JavaScript so far.
+
 ### R2D11 Tuesday May 28, 2019
 **Today's Progress:**
 Finished the Etch a Sketch - I gave up on making the shading change. I just couldn't make it work.
