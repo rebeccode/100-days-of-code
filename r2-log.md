@@ -4,7 +4,19 @@ The log of my #100DaysOfCode challenge.
 Started on [Saturday, April 27 2019].
 
 ## Log
- 
+
+### R2D16 Sunday Jun 9, 2019
+**Today's Progress:**
+
+
+**Learned:** 
+
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
 ### R2D15 Saturday Jun 8, 2019  
 **Today's Progress**
 Went to 2 hour Java class.  
