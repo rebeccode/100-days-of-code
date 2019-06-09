@@ -5,6 +5,19 @@ Started on [Saturday, April 27 2019].
 
 ## Log
 
+
+### R2D17 Monday Jun 10, 2019
+**Today's Progress:**
+
+
+**Learned:** 
+
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
 ### R2D16 Sunday Jun 9, 2019
 **Today's Progress:**
 
